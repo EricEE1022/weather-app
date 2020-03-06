@@ -1,0 +1,27 @@
+body{
+  background-image: url(./img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background: #eeedec; */
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container{
+  max-width: 400px;
+}
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50px;
+    width: 100px;
+    margin-bottom: -50px;
+}
+.my-5 h1{
+  color: #ffff;
+  font-family: fantasy;
+  font-weight: 900;
+}
+.my-4 label{
+  color: #ffff;
+  font-size: 13px;
+}
